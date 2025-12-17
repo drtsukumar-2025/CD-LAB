@@ -4,5 +4,7 @@ unzip and add the path of unzipped folder to the environment variable
 install GCC compiler
 unzip and add the bin folder path to the environment variable
 
+create a lexical file with the extension l
+run the lexical file with the command win_flex your_file_name.l
 
 
