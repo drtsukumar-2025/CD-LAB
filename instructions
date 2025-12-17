@@ -1,1 +1,8 @@
+install win_flex to convert lexical file into c file
+unzip and add the path of unzipped folder to the environment variable
+
+install GCC compiler
+unzip and add the bin folder path to the environment variable
+
+
 
